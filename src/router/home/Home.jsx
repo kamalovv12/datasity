@@ -15,7 +15,7 @@ function Home() {
           <span className='contact-text2'>Biz bilan bog'laning. Xabaringizni <br /> kutamiz</span><br />
           <div className="contact-text-page">
             <div className="contact-div1">
-              <IoLocationOutline className='location' />
+              <IoLocationOutline className='location' /> 
               <span className='contact-text3'>Manzil</span>
               <span className='conatct-text4'>Namangan shahar, chorsu davlat <br /> xizmatlari yonida</span>
             </div>
