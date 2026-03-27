@@ -68,6 +68,7 @@
     padding-top: 20px;
 }
 .location{
+    color: rgb(45, 85, 70);
     font-size: 75px;
 }
 .contact-text3{
@@ -142,5 +143,10 @@
  @media screen and (max-width: 396px) {
     .contact-text2{
         font-size: 26px;
+    }
+ }
+ @media screen and (max-width: 363px) {
+    .contact-text2{
+        font-size: 25px;
     }
  }
