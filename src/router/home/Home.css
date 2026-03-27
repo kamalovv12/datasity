@@ -137,5 +137,11 @@
  @media screen and (max-width: 369px) {
     .contact-text2{
         font-size: 25px;
+    } 
+ }
+ @media screen and (max-width: 396px) {
+    .contact-text2{
+        font-size: 26px;
     }
  }
+ 

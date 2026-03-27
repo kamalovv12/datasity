@@ -12,7 +12,7 @@ function Home() {
           <div className="contact-div">
             <span className='contact-text1'>Biz bilan bog'lanish</span>
           </div><br />
-          <span className='contact-text2'>Biz bilan bog'laning. Xabaringizni <br /> kutamiz.</span><br />
+          <span className='contact-text2'>Biz bilan bog'laning. Xabaringizni <br /> kutamiz</span><br />
           <div className="contact-text-page">
             <div className="contact-div1">
               <IoLocationOutline className='location' />
